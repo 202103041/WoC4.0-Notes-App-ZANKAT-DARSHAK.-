@@ -1,0 +1,47 @@
+h1{
+    font-size: 50px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;  
+    background-color: rgb(50, 143, 205); 
+    border-top: 4px solid black ;
+    text-align: center;
+}
+.abc{
+    background: black;
+    height: 600px;
+}
+.hi{
+    background-color: red;
+    width: 300px;
+    font-size: 30px;
+    text-align: center;
+}
+.hello{
+    
+    font-size: 15px;
+}
+.bcd{
+    border:white;
+    background-color: white;
+    height: 200px;
+    width: 300px;
+}
+.de{
+    border: 10px solid black;
+    box-sizing: border-box;
+    margin-left: 100px;
+}
+.am{
+    color: red;
+    float: right;
+}
+.af{
+    font-size: 50px;
+    color: red;
+    background-color: black;
+    float: right;
+    
+}
+.hj{
+    color: red;
+    float: right;
+}
